@@ -14,4 +14,4 @@ while (!xpValid) {
   }
 }
 
-console.log(classifyXP(name, xp));
+console.log(`O Herói de nome ${name} está no nível de ${classifyXP(xp)}`);
