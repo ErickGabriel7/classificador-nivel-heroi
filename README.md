@@ -1,4 +1,4 @@
-# Classificador de nivel de heroi
+# Classificador de nivel de herói
 
 [Desafio de projeto DIO] Programa que classifica e informa o nível de experiência (XP) de um herói de RPG, de acordo com a seguinte relação:
 
